@@ -1,0 +1,14 @@
+<meta>
+    <info name="Discord Integration" author="WhiteFoxMax" type="script" async="true"/>
+    <script src="discord_integration.cs" type="server" lang="csharp" />
+
+    <assembly ref="Discord.Net.Commands.dll" />
+    <assembly ref="Discord.Net.dll" />
+    <assembly ref="Newtonsoft.Json.dll" />
+    <assembly ref="Nito.AsyncEx.Concurrent.dll" />
+    <assembly ref="Nito.AsyncEx.dll" />
+    <assembly ref="Nito.AsyncEx.Enlightenment.dll" />
+    <assembly ref="RestSharp.dll" />
+    <assembly ref="WebSocket4Net.dll" />
+    <!-- <acl src="acl.xml" /> -->
+</meta>
